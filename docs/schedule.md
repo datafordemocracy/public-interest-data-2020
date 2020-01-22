@@ -12,7 +12,8 @@ Readings:
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism* (open draft version). MIT Press. [Chapter 7: The Power Chapter.](https://bookbook.pubpub.org/pub/7ruegkt6) -- the final, published, version will be avialable in March 2020.
 
 Reference/Resource:
-* Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 1.4-1.6, Ch 4, Ch 5.1-5.6, 6, 8](https://r4ds.had.co.nz/index.html) -- if you're new to R, these are well worth your time, and pretty short.
+* Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 1.4-1.6, Ch 4, Ch 5.1-5.6, 6, 8](https://r4ds.had.co.nz/index.html) 
+	- if you're new to R, these are well worth your time (and pretty short); primarily intended as a resource for while you're working with the data
 
 ### 2/24 Local Context/Past Work, Understanding our Data, Data Provenance and Processing
 
@@ -57,7 +58,8 @@ Reference/Resource:
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
-* Jason Forrest. 2018. [W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900.](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4) Nightingale: The Journal of the Data Visualization Society. *Medium.* -- this may not work, as you may need an account at Medium to access (though one can get a couple of free articles a month without an account); we'll strategize more as this approaches.
+* Jason Forrest. 2018. [W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900.](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4) Nightingale: The Journal of the Data Visualization Society. *Medium.* 
+	- if we can get free access (working on it)
 
 ### 3/30 Digging into the Literature, Building Models
 
@@ -73,7 +75,7 @@ Reference/Resource:
 Readings: 
 
 * Research articles on child welfare and race (TBA, 1 per group)
-* Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar. 2019. ["Moving to a World Beyond `p < 0.05'."](https://tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician& 73: 1-19.
+* Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar. 2019. ["Moving to a World Beyond `p < 0.05'."](https://tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician& 73: 1-10.
 
 ### 4/13 Digging into the Literature, Beginning our Final Report
 
