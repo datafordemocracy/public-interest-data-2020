@@ -8,7 +8,7 @@ The Public Interest Data Lab is intended to provide data science experience to s
 Our spring 2020 partner is the Charlottesville Department of Social Services (CDSS) who wish to understand more about (1) the sources of referral disproportionality and (2) repeat referrals. This year's work builds on the work from the prior to years on racial disproportionality and disparity in child welfare and foster care, addressing new questions prompted by that work and deepening our understanding. CDSS will use the results to determine what changes in practice will help minimize inequity.
 
 * [Lab Expectations](expectations.html)
-* Lab Schedule
+* [Lab Schedule](schedule.html)
 * [Lab Resources](resources.html)
 * Lab Progress
 
