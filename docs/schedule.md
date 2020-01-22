@@ -18,9 +18,8 @@ Reference/Resource:
 
 > Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be
 	concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an
-	inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly affects all indirectly. 
-	
-> - Martin Luther King, Jr., *Letter from Birmingham Jail*
+	inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly affects all
+	indirectly. - Martin Luther King, Jr., *Letter from Birmingham Jail*
 
 Readings:
 * Public Interest Data Lab. August 2018. [*Charlottesville Child Welfare Study.*](https://doi.org/10.18130/v3-1j50-3z57) Prepared for the Charlottesville Department of Social Services.
@@ -28,3 +27,17 @@ Readings:
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 5.3-5.5, 5.7, 15, 16](https://r4ds.had.co.nz/index.html) 
+
+### 3/2 Local Context/Past Work, Understanding our Data, Algorithms and Data Science
+
+> If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together. - Aboriginal activists group, Queensland, 1970s
+
+Readings: 
+* Public Interest Data Lab. August 2019. [*Charlottesville Foster Care Study.*](https://doi.org/10.18130/v3-ztey-hn31) Prepared for the Charlottesville Department of Social Services.
+* Data & Society. April 2018. [Algorithmic accountability: A Primer.](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) Prepared for the Congressional Progressive Caucus's Tech Algorithm Briefing: How Algorithms Perpetuate Racial Bias and Inequality.
+* Virginia Eubanks. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor.* St. Martin's Press. Selection on slack.
+
+Reference/Resource:
+* Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 5.3-5.5, 5.7, 15, 16](https://r4ds.had.co.nz/index.html) 
+
+### 3/9 Happy Spring Break!
