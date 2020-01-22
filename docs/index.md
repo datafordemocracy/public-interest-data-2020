@@ -19,4 +19,4 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 | Instructor, PI | Project Manager, R Guru |
 | mclaibourn [at] virginia [dot] edu | ccm9yd [at] virginia [dot] edu |
 | Brown SEL (Clark Hall), i-045 | |
-Find us on slack or send us an email!
+<td colspan=2>triple Find us on slack or send us an email!
