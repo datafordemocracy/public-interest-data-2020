@@ -35,7 +35,6 @@ Reference/Resource:
 
 Readings: 
 * Public Interest Data Lab. August 2019. [*Charlottesville Foster Care Study.*](https://doi.org/10.18130/v3-ztey-hn31) Prepared for the Charlottesville Department of Social Services.
-* Data & Society. April 2018. [Algorithmic accountability: A Primer.](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) Prepared for the Congressional Progressive Caucus's Tech Algorithm Briefing: How Algorithms Perpetuate Racial Bias and Inequality.
 * Virginia Eubanks. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor.* St. Martin's Press. Selection on slack.
 
 Reference/Resource:
@@ -58,7 +57,7 @@ Reference/Resource:
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
-* Jason Forrest. 2018. [W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900.](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4) Nightingale: The Journal of the Data Visualization Society. *Medium.* 
+* *Tentative:* Jason Forrest. 2018. [W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900.](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4) Nightingale: The Journal of the Data Visualization Society. *Medium.* 
 	- if we can get free access (working on it)
 
 ### 3/30 Digging into the Literature, Building Models
