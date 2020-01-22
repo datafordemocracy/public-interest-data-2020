@@ -9,7 +9,7 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 
 * [Lab Expectations](expectations.html)
 * Lab Schedule
-* Lab Resources
+* [Lab Resources](resources.html)
 * Lab Progress
 
 ## People
