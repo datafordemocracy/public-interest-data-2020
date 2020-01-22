@@ -21,25 +21,3 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 | Brown SEL (Clark Hall), i-045 | |
 
 Find us on slack or send us an email!
-
-<table>
-  <tr>
-    <td>Michele Claibour</td>
-    <td>Charlotte McClintock</td>
-  </tr> 
-  <tr>
-    <td>Instructor, PI</td>
-    <td>Project Manager, R Guru</td>
-  </tr>
-   <tr>
-    <td>mclaibourn [at] virginia [dot] edu</td>
-    <td>ccm9yd [at] virginia [dot] edu</td>
-  </tr>
-   <tr>
-    <td>Brown SEL (Clark Hall), i-045</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">Find us on slack or send us an email!</td>
-  </tr>
-</table>
