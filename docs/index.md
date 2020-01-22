@@ -14,7 +14,7 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 
 ## People
 
-| Michele Claibourn | Charlotte McClintock |
+| [Michele Claibourn](https://data.library.virginia.edu/michele-claibourn/) | Charlotte McClintock |
 | :---: | :---: |
 | Instructor, PI | Project Manager, R Guru |
 | mclaibourn [at] virginia [dot] edu | ccm9yd [at] virginia [dot] edu |
