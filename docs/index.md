@@ -16,7 +16,7 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 
 Michele Claibourn | Charlotte McClintock
 Instructor, PI | Project Manager, R Guru
-mclaibourn@virginia.edu | ccm9yd@virginia.edu
+mclaibourn [at] virginia.edu | ccm9yd [at] virginia.edu
 Brown SEL (Clark Hall), i-045 | 
 
 Find us on slack or send us an email!
