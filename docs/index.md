@@ -10,7 +10,7 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 * [Lab Expectations](expectations.html)
 * [Lab Schedule](schedule.html)
 * [Lab Resources](resources.html)
-* Lab Progress
+* [Batten School Policies](batten-policies.html)
 
 ## People
 
