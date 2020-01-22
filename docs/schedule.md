@@ -9,7 +9,22 @@ There are no books to purchase for this class. All readings are either freely av
 Readings:
 * Child Welfare Information Gateway. February 2013. [How the Child Welfare System Works.](https://www.childwelfare.gov/pubs/factsheets/cpswork/) Washington, DC: U.S. Department of Health and Human Services, Children's Bureau.
 * Child Welfare Information Gateway. November 2016. [Racial Disproportionality and Disparity in Child Welfare.](https://www.childwelfare.gov/pubs/issue-briefs/racial-disproportionality/) Washington, DC: U.S. Department of Health and Human Services, Children's Bureau.
-* Catherine D'Ignazio and Laura Klein. 2019. \emph{Data Feminism} (open draft version). MIT Press. [Chapter 7: The Power Chapter.](https://bookbook.pubpub.org/pub/7ruegkt6) -- the final, published, version will be avialable in March 2020.
+* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism* (open draft version). MIT Press. [Chapter 7: The Power Chapter.](https://bookbook.pubpub.org/pub/7ruegkt6) -- the final, published, version will be avialable in March 2020.
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 1.4-1.6, Ch 4, Ch 5.1-5.6, 6, 8](https://r4ds.had.co.nz/index.html) -- if you're new to R, these are well worth your time, and pretty short.
+
+### 2/24 Local Context/Past Work, Understanding our Data, Data Provenance and Processing
+
+> Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be
+	concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an
+	inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly affects all indirectly. 
+	
+> - Martin Luther King, Jr., *Letter from Birmingham Jail*
+
+Readings:
+* Public Interest Data Lab. August 2018. [*Charlottesville Child Welfare Study.*](https://doi.org/10.18130/v3-1j50-3z57) Prepared for the Charlottesville Department of Social Services.
+* Paul G. Stiles and Roger A. Boothroyd. 2015. ["Ethical Use of Administrative Data for Research Purposes."](https://www.aisp.upenn.edu/wp-content/uploads/2015/09/0033_12_SP2_Ethical_Admin_Data_001.pdf) (preprint version) In Fantuzzo and Culhane (eds) *Actionable Intelligence.* Palgrave Macmillan. Pages 4-9, 22-29.
+
+Reference/Resource:
+* Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 5.3-5.5, 5.7, 15, 16](https://r4ds.had.co.nz/index.html) 
