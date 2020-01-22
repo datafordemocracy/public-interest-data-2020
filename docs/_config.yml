@@ -1,5 +1,4 @@
-title: UVA Public Interest Data Lab
-logo: big-compass-ob.png
-description: Project site for UVA's Spring 2020 Public Interest Data Lab, a core project of the CommPAS Lab
-theme: jekyll-theme-minimal
-jekyll-theme-minimal
+title: "UVA Public Interest Data Lab"
+logo: "big-compass-ob.png"
+description: "Project site for UVA's Spring 2020 Public Interest Data Lab, a core project of the CommPAS Lab"
+theme: "jekyll-theme-minimal"
