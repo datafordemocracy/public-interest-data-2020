@@ -16,3 +16,10 @@ Grades will depend on your learning and contribution to the project, which will 
 * **Weekly updates (10%):** Beginning in week 5, individuals will submit a weekly update to me on slack briefly describing your individual contribution in the past week, what you're anticipating completing in the coming week, and alerting me to any problems you or your team are facing.
 
 * **Final report (25%):** Each group will be responsible for part of the final report, including some piece of the pre-analysis sections (overview, literature, and description of the data), as well as the communication of the processes and results around the research questions on which you took the lead.
+
+## On Data Science and R
+
+We will be using R to do our analytical work. Some of us will have prior experience with R and with statistics, some of us will not -- and that's entirely fine. 
+
+* For R: We'll spend time in class learning to use R, we'll learn together and teach each other (some of your colleagues will be excellent resources), we'll ask and answer questions on slack, and Charlotte and Prof. Claibourn will be available to help troubleshoot or explain. There's really no better way to learn something like R than by diving in on a project you care about.
+* For Data Analysis: You may find you need to learn about models or methods you don't already know (it's not yet clear what models we might need until we really get started). But we won't let you go outside the bounds of appropriate statistical practice or leave you on your own to figure it out! 
