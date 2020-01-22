@@ -1,4 +1,4 @@
-## Lab Schedule
+## Schedule
 
 There are no books to purchase for this class. All readings are either freely available or will be shared on slack. For each week, you should complete the assigned reading before coming to class; these will frame our discussion and inform our work. There are three types of reading: (1) research about the child welfare system and racial disparity, (2) scholarship on data and methods, primarily with a focus on using data responsibly and ethically, (3) resources on using R, included as additional support, but not a focus of discussion. We will spend time in class -- about an hour each in weeks 1-3, and 30-45 minutes in weeks 4-7 -- demonstrating multiple ways of using R for our work.
 
@@ -57,8 +57,6 @@ Reference/Resource:
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
-* *Tentative:* Jason Forrest. 2018. [W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900.](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4) Nightingale: The Journal of the Data Visualization Society. *Medium.* 
-	- if we can get free access (working on it)
 
 ### 3/30 Digging into the Literature, Building Models
 
