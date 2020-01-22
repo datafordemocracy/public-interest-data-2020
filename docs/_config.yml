@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: UVA Public Interest Data Lab
 description: Project site for UVA's Spring 2020 Public Interest Data Lab, a core project of the CommPAS Lab
-logo: https://github.com/datafordemocracy/public-interest-data-2020/blob/master/resources/big-compass-ob.png
+logo: /resources/big-compass-ob.png
