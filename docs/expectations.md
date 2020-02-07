@@ -23,3 +23,11 @@ We will be using R to do our analytical work. Some of us will have prior experie
 
 * For R: We'll spend time in class learning to use R, we'll learn together and teach each other (some of your colleagues will be excellent resources), we'll ask and answer questions on slack, and Charlotte and Prof. Claibourn will be available to help troubleshoot or explain. There's really no better way to learn something like R than by diving in on a project you care about.
 * For Data Analysis: You may find you need to learn about models or methods you don't already know (it's not yet clear what models we might need until we really get started). But we won't let you go outside the bounds of appropriate statistical practice or leave you on your own to figure it out! 
+
+## On Technology in the Lab<sup>1</sup>
+
+Some of our time together will be spent discussing the readings and projects, how we will practice responsible use of the data and the narrative we are creating, and providing feedback to our colleagues on their work. During these times, release yourself from your laptop and other electronic devices. 
+
+Some of our time together will be spent actively learning to use R for data wrangling, analysis, and visualization and working on the project in teams. During these times, of course, you'll need your laptop. 
+
+1. Thanks to a past lab member for suggesting this.
