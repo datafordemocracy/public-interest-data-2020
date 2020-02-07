@@ -48,6 +48,7 @@ Our partners from the Charlottesville Department of Social Services will be spen
 Readings:
 * National Research Council. 2004. *Measuring Racial Discrimination.* Washington, DC: The National Academies Press. [Chapter 2: Defining Race.](https://www.nap.edu/read/10887/chapter/5).
 * Ruha Benjamin. 2019. *Race After Technology: Abolitionist Tools for the New Jim Code*. Polity Press. Selection on slack. 
+* Heather Krause. 2020. [Keeping Data Inclusivity without Diluting Your Results.](https://weallcount.com/2020/01/17/keeping-data-inclusivity-without-diluting-your-results/) We All Count blog post.
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 27, 28](https://r4ds.had.co.nz/index.html) 
