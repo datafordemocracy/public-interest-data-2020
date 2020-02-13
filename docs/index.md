@@ -20,4 +20,6 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 | mclaibourn [at] virginia [dot] edu | ccm9yd [at] virginia [dot] edu | bhk5fs [at] virginia [dot] edu |
 | Brown SEL (Clark Hall), i-045, Thu 2-3, by appt. | | |
 
-Find us on slack or send us an email!
+<p align="center">
+  <b>Find us on slack or send us an email!</b>
+</p>
