@@ -4,8 +4,8 @@
 
 Read the [2018 Charlottesville Child Welfare study](https://libraopen.lib.virginia.edu/public_view/7s75dc423) completed by the first year of the Public Interest Data Lab class. As you read, think about the following questions: 
 
-* Based on your understanding of the child welfare system as we discussed today - which findings stand out the most? 
-* The data we're working with this semester is pretty similar to the data from the first year of the class with a few key additions. Where do you see opportunities to extend the research and dig deeper? What questions appear to have been answered exhaustively with the existing data?
+* Based on your understanding of the child welfare system as we discussed today - which findings stand out the most to you?  
+* The data we're working with this semester is pretty similar to the data from the first year of the class with a few key additions. Where do you see opportunities to extend the prior research and dig deeper? What questions appear to have been answered exhaustively with the existing data?
 
 
 ### Part 2 
@@ -18,11 +18,10 @@ Everyone has been assigned multiple descriptor variables and outcome variables. 
 
 *Challenge:* If you are already an R allstar, pick a finding from the 2018 report and try to replicate the table/graph/model with the 2020 data. Code from the 2018 report is available on the course Github in the 2018 repo. 
 
-
 ### What to submit: 
 
-* A short writeup (bulleted list, paragraph, etc.) of reflections, comments, or future directions after reading the 2018 report
-* An R script with your exploratory analysis code with your assigned variables 
+* A short writeup (bulleted list, paragraph, etc.) of reflections, comments, or future directions after reading the 2018 report - include a few research questions sparked by reading the report.
+* An R script with your exploratory analysis code with your assigned variables - come prepared to chat about what you found!
 
 Send these to the *assignments* channel on Slack by noon on Monday, March 24.
 
