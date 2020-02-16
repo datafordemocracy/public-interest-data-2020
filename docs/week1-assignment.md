@@ -10,7 +10,7 @@ Read the [2018 Charlottesville Child Welfare study](https://libraopen.lib.virgin
 
 ### Part 2 
 
-Open the [week1-example.R file]() and the [bestpractices.R]() file in R Studio. Mount the data in Veracrypt and read in the data. 
+Open the [week1-example.R file](https://github.com/datafordemocracy/public-interest-data-2020/blob/master/example-files/week1-example.R) and the [bestpractices.R](https://github.com/datafordemocracy/public-interest-data-2020/blob/master/example-files/bestpractices.R) file in R Studio. Mount the data in Veracrypt and read in the data. 
 
 You can find your [variable assignments here](https://docs.google.com/spreadsheets/d/1pOKLV4lXYs4Dyx3Gft959NhwY0FjkmN94rbZLMsI7Zc/edit?usp=sharing). Multiple people in the class are assigned to each variable but no two people have the same set. Feel free to collaborate with other students in the course!
 
