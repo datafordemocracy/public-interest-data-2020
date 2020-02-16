@@ -15,6 +15,9 @@ Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 1.4-1.6, Ch 4, Ch 5.1-5.6, 6, 8](https://r4ds.had.co.nz/index.html) 
 	- if you're new to R, these are well worth your time (and pretty short); primarily intended as a resource for while you're working with the data
 
+Assignment (due by noon 3/24):
+* [Week 1 Assignment](week1-assignment.html)
+
 ### 2/24 Local Context/Past Work, Understanding our Data, Data Provenance and Processing
 
 > Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be
