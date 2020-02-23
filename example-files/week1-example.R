@@ -17,7 +17,6 @@ setwd("/Volumes/PIDL20/data2020")
 
 # load data
 rsl <- readRDS("ref_supp_long.RDS")
-# files created in cps_clean.R & fc_clean.R
 
 # ..........................................................................................
 

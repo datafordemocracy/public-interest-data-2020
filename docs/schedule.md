@@ -33,6 +33,9 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 5.3-5.5, 5.7, 15, 16](https://r4ds.had.co.nz/index.html) 
 
+Assignment (due by noon 3/2):
+* [Week 2 Assignment](week2-assignment.html)
+
 ### 3/2 Local Context/Past Work, Understanding our Data, Algorithms and Data Science
 
 > If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together. - Aboriginal activists group, Queensland, 1970s

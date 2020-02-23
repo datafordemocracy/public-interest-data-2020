@@ -23,6 +23,6 @@ Everyone has been assigned multiple descriptor variables and outcome variables. 
 * A short writeup (bulleted list, paragraph, etc.) of reflections, comments, or future directions after reading the 2018 report - include a few research questions sparked by reading the report.
 * An R script with your exploratory analysis code with your assigned variables - come prepared to chat about what you found!
 
-Send these to the *assignments* channel on Slack by noon on Monday, March 24.
+Send these to the *assignments* channel on Slack by noon on Monday, February 24.
 
 
