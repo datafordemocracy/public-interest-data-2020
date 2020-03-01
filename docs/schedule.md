@@ -47,6 +47,9 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 3, 7, 13](https://r4ds.had.co.nz/index.html) 
 
+Assignment (due by noon 3/16):
+* [Week 3 Assignment](week3-assignment.html)
+
 ### 3/9 Happy Spring Break!
 
 ### 3/16 Measuring Race, Race as Technology, Meeting with Partners
@@ -59,6 +62,7 @@ Readings:
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 27, 28](https://r4ds.had.co.nz/index.html) 
+
 
 ### 3/23 Digging into the Literature, Representing Populations
 
