@@ -3,7 +3,7 @@
 # Week 2 Examples: more descriptive statistics
 ######################################################################################
 
-# ..........................................................................................
+# .....................................................................................
 
 # 1. Load libraries and data ----
 
@@ -18,7 +18,7 @@ setwd("/Volumes/PIDL20/data2020")
 rsl <- readRDS("ref_supp_long.RDS")
 
 
-# ..........................................................................................
+# ......................................................................................
 
 # 1. Exploring and learning more about R 
 
@@ -60,8 +60,8 @@ levels(rsl$prior_ref)
 # let's change the categories to reflect that 
 rsl <- mutate(rsl, # mutate the data set
               prior_ref=fct_recode(prior_ref, # note that the variable is here 2x
-                                        "Prior Referral(s)"="Yes", # new name comes first, then old
-                                        "No Prior Referral(s)"="No"))
+                                    "Prior Referral(s)"="Yes", # new name comes first, then old
+                                    "No Prior Referral(s)"="No"))
 # this has already been done for the data you're using 
 # now we can see the categories have been updated
 levels(rsl$prior_ref)
