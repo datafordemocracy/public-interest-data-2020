@@ -48,7 +48,7 @@ Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 3, 7, 13](https://r4ds.had.co.nz/index.html) 
 
 Assignment (due by noon 3/16):
-* [Week 3 Assignment](week3-assignment.html)
+* [Week 3 Assignment](week3-assignment.md)
 
 ### 3/9 Happy Spring Break!
 
