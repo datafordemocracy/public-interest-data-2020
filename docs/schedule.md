@@ -53,6 +53,9 @@ Assignment (due by noon 3/16):
 ### 3/9 Happy Spring Break!
 
 ### 3/16 Measuring Race, Race as Technology, Meeting with Partners
+
+> The oppressor is in solidarity with the oppressed only when he stops regarding the oppressed as an abstract category and sees them as persons who have been unjustly dealt with, deprived of their voice, cheated in the sale of their labor - when he stops making pious, sentimental, and individualistic gestures and risks an act of love. True solidarity is found only in the plenitude of this act of love, in its existentiality in its praxis. To affirm that men and women are persons and as persons should be free, and yet to do nothing tangible to make this affirmation a reality, is a farce. - Paulo Freire, *Pedagogy of the Oppressed*
+
 Our partners from the Charlottesville Department of Social Services will be spending an hour with us today!
 
 Readings:
@@ -75,6 +78,7 @@ Readings:
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Joshua M. Epstein. 2008. [Why Model?](http://jasss.soc.surrey.ac.uk/11/4/12.html) *Journal of Artificial Societies and Social Simulation*  11:12.
+*  Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. [The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System](https://doi.org/10.1177/0963721418763931). *Current Directions in Psychological Science* 27: 183–187. 
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 23, 24](https://r4ds.had.co.nz/index.html) 
@@ -94,7 +98,7 @@ Readings:
 ### 4/20 Workshopping our Work
 No reading; Each group will present their portion of the project to the class for feedback. We will make constructive suggestions for final improvements and start putting the pieces together.
 
-### 4/27 Rervised Analysis & Report
+### 4/27 Revised Analysis & Report
 We'll spend most of the time today wrapping up the final written report, including paired group reviews and full class consideration.
 
 Readings: 
