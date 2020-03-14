@@ -47,16 +47,16 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 3, 7, 13](https://r4ds.had.co.nz/index.html) 
 
-Assignment (due by noon 3/16):
+Assignment (due by noon 3/23):
 * [Week 3 Assignment](week3-assignment.html)
 
 ### 3/9 Happy Spring Break!
 
-### 3/16 Measuring Race, Race as Technology, Meeting with Partners
+### 3/16 No class, transition to online
+
+### 3/23 Measuring Race, Race as Technology
 
 > The oppressor is in solidarity with the oppressed only when he stops regarding the oppressed as an abstract category and sees them as persons who have been unjustly dealt with, deprived of their voice, cheated in the sale of their labor - when he stops making pious, sentimental, and individualistic gestures and risks an act of love. True solidarity is found only in the plenitude of this act of love, in its existentiality in its praxis. To affirm that men and women are persons and as persons should be free, and yet to do nothing tangible to make this affirmation a reality, is a farce. - Paulo Freire, *Pedagogy of the Oppressed*
-
-Our partners from the Charlottesville Department of Social Services will be spending an hour with us today!
 
 Readings:
 * National Research Council. 2004. *Measuring Racial Discrimination.* Washington, DC: The National Academies Press. [Chapter 2: Defining Race.](https://www.nap.edu/read/10887/chapter/5).
@@ -67,40 +67,35 @@ Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 27, 28](https://r4ds.had.co.nz/index.html) 
 
 
-### 3/23 Digging into the Literature, Representing Populations
-
-Readings:
-* Research articles on child welfare and race (TBA, 1 per group)
-* Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
-
 ### 3/30 Digging into the Literature, Building Models
 
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Joshua M. Epstein. 2008. [Why Model?](http://jasss.soc.surrey.ac.uk/11/4/12.html) *Journal of Artificial Societies and Social Simulation*  11:12.
-*  Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. [The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System](https://doi.org/10.1177/0963721418763931). *Current Directions in Psychological Science* 27: 183–187. 
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 23, 24](https://r4ds.had.co.nz/index.html) 
 
-### 4/6 Digging into the Literature, Interpreting Models
+
+### 4/6 Digging into the Literature, Representing Populations
+
+Readings:
+* Research articles on child welfare and race (TBA, 1 per group)
+* Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
+
+
+### 4/13 Digging into the Literature, Interpreting Models
 
 Readings: 
-
 * Research articles on child welfare and race (TBA, 1 per group)
 * Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar. 2019. ["Moving to a World Beyond `p < 0.05'."](https://tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician& 73: 1-10.
 
-### 4/13 Digging into the Literature, Beginning our Final Report
+### 4/20 Beginning our Final Report
 
 Readings: 
-* Research articles on child welfare and race (TBA, 1 per group)
+*  Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. [The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System](https://doi.org/10.1177/0963721418763931). *Current Directions in Psychological Science* 27: 183–187. 
 
-### 4/20 Workshopping our Work
-No reading; Each group will present their portion of the project to the class for feedback. We will make constructive suggestions for final improvements and start putting the pieces together.
-
-### 4/27 Revised Analysis & Report
-We'll spend most of the time today wrapping up the final written report, including paired group reviews and full class consideration.
+### 4/27 Revisions and Next Steps
 
 Readings: 
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
-
