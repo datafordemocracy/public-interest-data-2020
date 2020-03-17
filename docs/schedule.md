@@ -59,6 +59,8 @@ Assignment (due by noon 3/23):
 > The oppressor is in solidarity with the oppressed only when he stops regarding the oppressed as an abstract category and sees them as persons who have been unjustly dealt with, deprived of their voice, cheated in the sale of their labor - when he stops making pious, sentimental, and individualistic gestures and risks an act of love. True solidarity is found only in the plenitude of this act of love, in its existentiality in its praxis. To affirm that men and women are persons and as persons should be free, and yet to do nothing tangible to make this affirmation a reality, is a farce. - Paulo Freire, *Pedagogy of the Oppressed*
 
 Readings:
+
+
 * National Research Council. 2004. *Measuring Racial Discrimination.* Washington, DC: The National Academies Press. [Chapter 2: Defining Race.](https://www.nap.edu/read/10887/chapter/5).
 * Ruha Benjamin. 2019. *Race After Technology: Abolitionist Tools for the New Jim Code*. Polity Press. Selection on slack. 
 * Heather Krause. 2020. [Keeping Data Inclusivity without Diluting Your Results.](https://weallcount.com/2020/01/17/keeping-data-inclusivity-without-diluting-your-results/) We All Count blog post.
@@ -66,6 +68,9 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 27, 28](https://r4ds.had.co.nz/index.html) 
 
+Due
+* Collaborative annotations/commenting on today's reading in Perusall by 2pm Monday, 3/23
+* [Week 3 Assignment](week3-assignment.html) in slack/assignments by 12pm Monday, 3/23
 
 ### 3/30 Digging into the Literature, Building Models
 
@@ -76,12 +81,22 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 23, 24](https://r4ds.had.co.nz/index.html) 
 
+Due
+* Collaborative annotations/commenting on today's (very short) reading in Perusall by 2pm Monday, 3/30
+* Team progress report 1: exploring/visualizing the data for your key questions (in a well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 3/30
+* Team research article synthesis in slack/reading-news by 2pm Monday, 3/30
 
 ### 4/6 Digging into the Literature, Representing Populations
 
 Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
+
+Due
+* Collaborative annotations/commenting on today's (pretty short) reading in Perusall by 2pm Monday, 4/6
+* Team progress report 2: initial models, revised summaries, visualizations of your key questions (well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 4/6
+* Team research article synthesis in slack/reading-news by 2pm Monday, 4/6
+* Team peer review of another team's progress report 1 via comment thread in slack by 2pm Monday, 4/6
 
 
 ### 4/13 Digging into the Literature, Interpreting Models
@@ -90,12 +105,35 @@ Readings:
 * Research articles on child welfare and race (TBA, 1 per group)
 * Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar. 2019. ["Moving to a World Beyond `p < 0.05'."](https://tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician& 73: 1-10.
 
+Due
+* Collaborative annotations/commenting on today's (pretty short) reading in Perusall by 2pm Monday, 4/13
+* Team progress report 3: revised models, visualizations, summaries of your key questions (well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 4/13
+* Team research article synthesis in slack/reading-news by 2pm Monday, 4/13
+* Team peer review of another team's progress report 2 via comment thread in slack by 2pm Monday, 4/13
+
+
 ### 4/20 Beginning our Final Report
 
 Readings: 
 *  Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. [The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System](https://doi.org/10.1177/0963721418763931). *Current Directions in Psychological Science* 27: 183–187. 
 
+Due
+* Collaborative annotations/commenting on today's (very short) reading in Perusall by 2pm Monday, 4/20
+* Team progress report 4: revised models, intepretations, initial and model visualizations, of your key questions (well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 4/20
+* Team peer review of another team's progress report 3 via comment thread in slack by 2pm Monday, 4/20
+
+
 ### 4/27 Revisions and Next Steps
 
 Readings: 
 * Ben Green. 2018. ["Data Science as Political Action: Grounding Data Science in a Politics of Justice."](https://arxiv.org/pdf/1811.03435) arXiv preprint arXiv:1811.03435. Part 2, pages 29-46.
+
+Due
+* Collaborative annotations/commenting on today's (somewhat longer) reading in Perusall by 2pm Monday, 4/27
+* Contributions to report document in Overleaf by 2pm Monday, 4/27
+
+
+### 4/30 Report Revisions
+
+Due
+* Revised contributions to report document in Overleaf by 5pm Monday, 4/30 (what would be the end of our scheduled final exam time, if we had a final exam)
