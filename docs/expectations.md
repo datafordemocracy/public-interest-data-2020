@@ -11,11 +11,19 @@ Grades will depend on your learning and contribution to the project, which will 
 
 * **Class contributions and participation (25%):** Since we are working as a group to complete a real project for a real partner/client, attending class prepared to be fully engaged will help you get the most out of the experience and give the most to our joint effort.  Come prepared, do the reading, ask questions, chime in with ideas, help develop solutions, complete work you've been assigned. 
 
+COVID revision: To recreate the ability to discuss the remaining reading, we'll all contribute to collaborative annotations and commenting of the text via Perusall. Similarly, team peer review will take place via slack to make sure we have the opportunity to understand one another's work and provide suggestions.
+
 * **Team assignments (30%):** From week 4 on, we'll begin working in groups to complete parts of the overall project, including reviewing different parts of the literature, exploring different parts of the data set, analyzing different subsets of questions, writing different elements of the overall report. Once teams have been formed, I expect groups to meet each week between class to work together. Group members will have a chance to evaluate the contributions of one another as well.  Each group will report on their progress each week, sometimes to the class, sometimes through documents submitted on slack. Based on that progress, we'll determine the next steps that should be completed for the following class. Though I have something of an outline in my head of where I imagine we'll be from week to week, applied research and data analysis often does not conform to planned timelines. In part, that's what makes it exciting, but I know that can be uncomfortable for some, so I want to be upfront that the project will require some flexibility on all our parts.
+
+COVID revision: This is pretty much the same, only groups may need to work differently (and more asynchronously). 
 
 * **Weekly updates (10%):** Beginning in week 5, individuals will submit a weekly update to me on slack briefly describing your individual contribution in the past week, what you're anticipating completing in the coming week, and alerting me to any problems you or your team are facing.
 
+COVID revision: scratching this -- and folding it into the collaborative annotation, team progress reports, and team peer review.
+
 * **Final report (25%):** Each group will be responsible for part of the final report, including some piece of the pre-analysis sections (overview, literature, and description of the data), as well as the communication of the processes and results around the research questions on which you took the lead.
+
+COVID revision: This is pretty much the same. 
 
 ## On Data Science and R
 
@@ -29,5 +37,7 @@ We will be using R to do our analytical work. Some of us will have prior experie
 Some of our time together will be spent discussing the readings and projects, how we will practice responsible use of the data and the narrative we are creating, and providing feedback to our colleagues on their work. During these times, release yourself from your laptop and other electronic devices. 
 
 Some of our time together will be spent actively learning to use R for data wrangling, analysis, and visualization and working on the project in teams. During these times, of course, you'll need your laptop. 
+
+COVID revision: We'll try to post examples or link to materials for learning new steps in R, and will be active in Slack and via online office hours in helping troubleshoot.
 
 1. Thanks to a past lab member for suggesting this.
