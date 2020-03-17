@@ -25,7 +25,7 @@ Grades will depend on your learning and contribution to the project, which will 
 
 * **Final report (25%):** Each group will be responsible for part of the final report, including some piece of the pre-analysis sections (overview, literature, and description of the data), as well as the communication of the processes and results around the research questions on which you took the lead.
 
-   ( COVID revision: This is pretty much the same. 
+   * COVID revision: This is pretty much the same. 
 
 ## On Data Science and R
 
