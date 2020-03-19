@@ -18,8 +18,8 @@ Our spring 2020 partner is the Charlottesville Department of Social Services (CD
 | :---: | :---: | :---: |
 | Instructor, PI | Project Manager, R Guru | Project Advisor |
 | mclaibourn [at] virginia [dot] edu | ccm9yd [at] virginia [dot] edu | bhk5fs [at] virginia [dot] edu |
-| Brown SEL (Clark Hall), i-045, Thu 2-3, by appt. | West Range, Room 5, Sun 10-1 | Ruffner, 2nd floor, Tue 3-4|
+| Via Slack or Zoom, by appt. | Via Slack or Zoom, tbd | Via Slack or Zoom, tbd |
 
 <p align="center">
-  <b>Find us on slack or send us an email!</b>
+  <b>Find us on [Slack](publicinterestdatas20.slack.com) or send us an email!</b>
 </p>
