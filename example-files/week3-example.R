@@ -32,11 +32,12 @@ ggplot(rsl, aes(race)) + geom_bar() # adds bars with counts on top
 # this graph now gives us counts of children of each race in foster care
 
 # now let's make a histogram
-ggplot(rsl, aes(numref)) + geom_histogram(binwidth = 1)
+ggplot(rsl, aes(numref)) + geom_histogram(binwidth = 1) 
 # 'binwidth' is an argument to geom_histogram which specifies bin size
 # each geom_ function takes different arguments
 
 # to check out all the ggplot types, type geom_ and a list will pop up
+
 
 # ..........................................................................................
 
@@ -54,7 +55,7 @@ ggplot(rsl, aes(race, fill=race)) + geom_bar()
 ggplot(rsl, aes(race, fill=gender)) + geom_bar()
 
 # the default is to stack the fill within the bar, that's hard to compare
-ggplot(rsl, aes(race, fill=gender)) + geom_bar(position="dodge")
+ggplot(rsl, aes(race, fill=gender)) + geom_bar(position="fill")
 # position='dodge' breaks out gender side by side
 
 # if we add race to our histogram
@@ -89,6 +90,11 @@ ggplot(arb, aes(gender, n, fill=race)) + geom_bar() #oh no - error!
 ggplot(arb, aes(gender, n, fill=race)) + 
   stat_summary(geom="bar", fun.y="sum", position = "dodge")
 
+arb <- rsl %>% group_by(race) %>% count()
+
+ggplot(arb, aes(reorder(race, -n), n, fill=race)) + 
+  stat_summary(geom="bar", fun.y="sum", position = "dodge")
+
 
 # ..........................................................................................
 
@@ -96,7 +102,7 @@ ggplot(arb, aes(gender, n, fill=race)) +
 
 # we add titles, axis labels, and legend titles with labs()
 ggplot(rsl, aes(race, fill=gender)) + 
-  geom_bar(position="dodge") + 
+  geom_bar(position="dodge", color="black") + 
   labs(title="Children in Foster Care by Race & Gender", 
        subtitle="More black boys than black girls in foster care", 
        x="Race", 

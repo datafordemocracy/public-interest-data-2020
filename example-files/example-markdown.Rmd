@@ -1,0 +1,75 @@
+---
+title: "R Markdown Example"
+author: "Public Interest Data Lab"
+date: "Spring 2020"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=F}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
+
+rsl <- readRDS("ref_supp_long.RDS")
+
+library(tidyverse)
+library(RColorBrewer)
+library(knitr)
+```
+
+## Welcome to R Markdown! 
+
+R Markdown is a super useful tool for presenting and communicating results. It can render HTML, PDF, and Word files. We'll use HTML files for this class but PDF files can also be super useful. In order to use the PDF option, you'll need to download the appropriate LaTeX distribution for your operating system. To fully understand how R Markdown works, open both the HTML file and the R Markdown file to see it side by side. 
+
+unk to avoid having random R messages appear in your file. 
+
+R Markdown is composed of two main parts: text and code chunks. 
+
+## Text in R Markdown
+
+For the text sections, just type in the document like normal. You can *italicize* or **bold** text with asterisks. You can also add links to text, add superscript, images, equations, and more. A useful cheatsheet for R Markdown syntax is [linked here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf).
+
+## Code Chunks in R Markdown
+
+All R code in an R Markdown has to be executed inside a code chunk. Code chunks are defined. A super useful shortcut to create a code chunk is **Command** + **Option** + **I**. You can also create a code chunk from the *Insert* button above or by typing three back ticks followed by \{r\} and end the code with three back ticks again. Note that these are not apostrophes (') but backticks (`). The play button at the top right of a code chunk will run that chunk, and the downward triange will run all chunks before that chunk. The settings button allows you to manually select options for the chunk without having to set them manually each time. 
+
+### Set Up Chunk 
+
+All R Markdown files are created with a set up chunk at the top - *do not delete this section*. This is where you want to load in the data and load any libraries you're using for the file because this section is what's run automatically when you run any chunk of code in the file. This is where you can set global options (`echo = TRUE` to see code, `echo = FALSE` to hide it). You'll usually want to set `warning = FALSE` in the set up code chunk to avoid getting R warning messages in your file. 
+
+### Useful Code Chunk Arguments
+  * `eval = FALSE` prevents R from evaluating a code chunk when you knit a file. The default is that R will evaluate all code chunks in a file. 
+  * `echo = TRUE` shows the R code in a script. `echo =  FALSE` hides the R code but still displays the results. 
+  * `results = "hide"` in the beginning of an R code chunk hides the results of that code chunk but still evaluates it. This is useful when you're defining variables you want to use later. 
+  
+
+## Tables in R Markdown
+
+In order to make nice looking tables in R Markdown, we can use the `kable` function from the knitr package. Wrap the `kable()` function around any table or data frame to render it in nice HTML. We can also choose how many digits (e.g. `digits = 2`) to show or rename the columns (`col.names=c("Name 1", "Name 2)`) but passing them as arguments to `kable()`. 
+
+```{r race_gen_tab}
+tab <- 100*prop.table(table(rsl$race, rsl$gender), 2)
+kable(tab, digits=2)
+```
+
+## Graphics in R Markdown
+
+Graphics in R markdown are generally straight forward. Running code that generates a visualization in a code chunk will render that visualization in the output file.`fig.width` and `fig.height` come after a comma in the code chunk set up and allow you to set dimensions for a figure. 
+
+```{r age_dist, fig.width=8, fig.height=4}
+ggplot(subset(rsl, screen_in=="Yes" & race %in% c("Black", "White", "MultiRace")), 
+       aes(age_full, fill=race)) + geom_density(alpha=0.5) + 
+  labs(title = "Age Distribution of Children Screened In", 
+       x="Age", fill="Race")
+```
+
+## Knitting a R Markdown Document
+
+Click *Knit* in the bar above to "knit" the file. This will render the file (HTML in this case) and the document will appear. A copy of the file is also saved automatically into the working directory where your .Rmd file is stored. 
+
+
+## Fancy Formatting
+
+You can all all sorts of formatting to an R Markdown file - themes, table of contents, and more. Here I'm using a Yeti theme with a floating table of contents. Check out the header of the document in the .Rmd file to see how. 
