@@ -66,7 +66,7 @@ Readings:
 * Heather Krause. 2020. [Keeping Data Inclusivity without Diluting Your Results.](https://weallcount.com/2020/01/17/keeping-data-inclusivity-without-diluting-your-results/) We All Count blog post.
 
 Reference/Resource:
-* [example-markdown.Rmd script](https://github.com/datafordemocracy/public-interest-data-2020/blob/master/example-files/example-markdown.Rmd) and accompanying [example-markdown.html output](example-markdown.html)
+* [example-markdown.Rmd script](https://github.com/datafordemocracy/public-interest-data-2020/blob/master/example-files/example-markdown.Rmd) and accompanying [example-markdown.html output](https://datafordemocracy.github.io/public-interest-data-2020/example-markdown.html)
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 27, 28](https://r4ds.had.co.nz/index.html) 
 
 What's Due?
