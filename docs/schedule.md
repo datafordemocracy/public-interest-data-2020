@@ -76,8 +76,13 @@ What's Due?
 ### 3/30 Digging into the Literature, Building Models
 
 Readings:
-* Research articles on child welfare and race (TBA, 1 per group)
 * Joshua M. Epstein. 2008. [Why Model?](http://jasss.soc.surrey.ac.uk/11/4/12.html) *Journal of Artificial Societies and Social Simulation*  11:12.
+* Research articles - 1 per team - posted on slack:
+
+   * Connell, Christian M., Natasha Bergeron, Karol H. Katz, Leon Saunders, and Jacob Kraemer Tebes. 2007. “Re-Referral to Child Protective Services: The Influence of Child, Family, and Case Characteristics on Risk Status.” *Child Abuse & Neglect* 31: 573–588. 
+   * Ho, Grace W.K., Amie Bettencourt, and Deborah A. Gross. 2017. “Reporting and Identifying Child Physical Abuse: How Well Are We Doing?” *Research in Nursing & Health* 40: 519–27.
+   * Kesner, John E., and Bridget V. Dever. 2015. “An Inter-Reporter Analysis of Mandated Child Maltreatment Reporting in the USA,” 61–75. *Mandatory Reporting Laws and the Identification of Severe Child Abuse and Neglect Child Maltreatment Volume 4*. Springer.
+   * Smith, Brenda D., Emma Sophia Kay, and Bethany G. Womack. 2017. “How Can County-Level Maltreatment Report Rates Better Inform Child Welfare Practice?” *Children and Youth Services Review* 79: 341–347.
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 23, 24](https://r4ds.had.co.nz/index.html) 
