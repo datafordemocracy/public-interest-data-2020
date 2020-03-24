@@ -74,6 +74,7 @@ What's Due?
 * [Week 3 Assignment](week3-assignment.html) in slack/assignments by 12pm Monday, 3/23
 
 ### 3/30 Digging into the Literature, Building Models
+> Demanding more data on subjects that we already know much about is, in my estimation, a perversion of knowledge. The *datafication of injustice*... in which the hunt for more and more data is a barrier to acting on what we already know. - Ruha Benjamin, *Race after Technology*
 
 Readings:
 * Joshua M. Epstein. 2008. [Why Model?](http://jasss.soc.surrey.ac.uk/11/4/12.html) *Journal of Artificial Societies and Social Simulation*  11:12.
