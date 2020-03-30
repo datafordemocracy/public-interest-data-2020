@@ -203,6 +203,7 @@ Anova(allege1, type = 3)
 
 
 # 3. duration/survival (outcome is how long until an event occurs)
+library(survival)
 # binary indicator for whether the child is still in the system
 dss_remove <- dss_remove %>% 
   mutate(fc_exit = if_else(is.na(discharge_date), 0, 1)) # 1 if exit
