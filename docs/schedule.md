@@ -87,6 +87,7 @@ Readings:
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 23, 24](https://r4ds.had.co.nz/index.html) 
+* [model_ex.R script](https://github.com/datafordemocracy/public-interest-data-2020/blob/master/example-files/model_ex.R)
 
 What's Due?
 * Individual annotations/commenting on today's (very short) reading in Perusall by 2pm Monday, 3/30
