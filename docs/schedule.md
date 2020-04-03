@@ -95,14 +95,19 @@ What's Due?
 * Team research article synthesis in slack/reading-news by 2pm Monday, 3/30
 
 ### 4/6 Digging into the Literature, Representing Populations
+> But simply punishing the broken--walking away from them or hiding them from sight--only ensures that they remain broken and we do, too. There is no wholeness outside of our reciprocal humanity. - Bryan Stevenson, *Just Mercy*
 
 Readings:
-* Research articles on child welfare and race (TBA, 1 per group)
 * Craig M. Dalton and Tim Stallmann. 2018. ["Counter-Mapping Data Science."](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cag.12398) *The Canadian Geographer* 61: 93-101.
+* Research articles - 1 per team - posted on slack:
+   * Drake, Brett, Melissa Jonson-Reid, and Hyunil Kim. 2017. "Surveillance bias in child maltreatment: a tempest in a teapot." *International Journal of Environmental Research and Public Health* 14: 971-985.
+   * Hollinshead, Dana M., Tyler W. Corwin, Erin J. Maher, Lisa Merkel-Holguin, Heather Allan and John D. Fluke. 2017. "Effectiveness of family group conferencing in preventing repeat referrals to child protective services and out-of-home placements." *Child Abuse & Neglect* 69: 285-294.
+   * Krase, Kathryn S. and Tobi A. Delong-Hamilton. 2015. "Comparing reports of suspected child maltreatment in states with and without Universal Mandated Reporting." *Children and Youth Services Review* 50: 96-100.
+   * Maguire-Jack, Kathryn, Paul Lanier, Michelle Johnson-Motoyama, Hannah Welch, and Michael Dineen. 2015. "Geographic variation in racial disparities in child maltreatment: The influence of county poverty and population density." *Child Abuse & Neglect* 47: 1-13.
 
 What's Due?
 * Individual annotations/commenting on today's (pretty short) reading in Perusall by 2pm Monday, 4/6
-* Team progress report 2: initial models, revised summaries, visualizations of your key questions (well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 4/6
+* Team progress report 2: revised data summaries and visualization, initial statistical tests (in a well-narrated Rmarkdown file) in slack/assignments by 2pm Monday, 4/6
 * Team research article synthesis in slack/reading-news by 2pm Monday, 4/6
 * Team peer review of another team's progress report 1 via comment thread in slack by 2pm Monday, 4/6
 
