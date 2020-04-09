@@ -114,9 +114,15 @@ What's Due?
 
 ### 4/13 Digging into the Literature, Interpreting Models
 
+> ... I was gradually able to make a natural connection between this intellectual penetration at Oxford and the moral perception which is always necessary for the discovery of new methods by which to minister to human needs. In the unceasing ebb and flow of justice and oppression we must all dig channels as best we may, that at the propitious moment somewhat of the swelling tide may be conducted to the barren places of life. - Jane Addams, *Twenty Years at Hull House*
+
 Readings: 
-* Research articles on child welfare and race (TBA, 1 per group)
 * Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar. 2019. ["Moving to a World Beyond `p < 0.05'."](https://tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician& 73: 1-10.
+* Research articles - 1 per team - posted on slack:
+   * Ards, Sheila D., Samuel L. Myers, Chanjin Chung, Allan Malkis, and Brian Hagerty. 2003. "Decomposing black-white differences in child maltreatment." *Child Maltreatment* 8: 112-121.
+   * Fluke, John D., Nicole Harlaar, Brett Brown, Kurt Heisler, Lisa Merkel-Holguin, and Adam Darnell. 2019. "Differential Response and Children Re-Reported to Child Protective Services: County Data From the National Child Abuse and Neglect Data System (NCANDS)." *Child Maltreatment* 24: 127-136.
+   * Fong, Kelley. 2019. "Neighborhood inequality in the prevalence of reported and substantiated child maltreatment." *Child Abuse & Neglect* 90: 13-21.
+   * Kokaliari, Effrosyni D., Ann W. Roy, and Joyce Taylor. 2019. "African American perspectives on racial disparities in child removals." *Child Abuse & Neglect* 90: 139-148.
 
 What's Due?
 * Individual annotations/commenting on today's (pretty short) reading in Perusall by 2pm Monday, 4/13
