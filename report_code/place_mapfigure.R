@@ -5,6 +5,7 @@
 # 2. Pull Census Tracts, School Districts
 # 3. Set map parameters
 # 4. Generate base maps
+# 5. Further steps
 # Updated: October 2020 (Hannah)
 ######################################################################################
 
@@ -55,7 +56,7 @@ cville <- cville %>%
 
 # read in school zone data pulled from:
 # https://opendata.charlottesville.org/datasets/elementary-school-zone-area
-sch <- st_read("Elementary_School_Zone_Area-shp/Elementary_School_Zone_Area.shp")
+sch <- st_read("data2020/Elementary_School_Zone_Area-shp/Elementary_School_Zone_Area.shp")
 
 
 # ..........................................................................................
@@ -125,3 +126,8 @@ ggmap(test_map_cville) +
   theme_void() +
   coord_sf(crs = st_crs(4326))
 
+# ..........................................................................................
+# 5. Futher Steps ----
+# After creating the base maps, we downloaded the files as pdfs and uploaded them into illustrator
+# In illustrator we created a diagonal clipping mask of the perc_pov tracts and pasted it over the perc_wt map
+# We then moved around tract names and created a title to create the graphic seen in the report
